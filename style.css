@@ -1,0 +1,178 @@
+div.pust { position: relativ;
+    background: blueviolet; /* Цвет фона */
+   
+    padding: 30px; /* Поля вокруг текста */
+    border-radius: 10px; /* Уголки */
+    width: 300px;
+    margin-left: 20px; 
+    margin-right: 20px;
+    border: 1px solid blueviolet;}
+
+    p1{font-size: 20px;
+    color:white;
+    ;
+    bottom: 70px;}
+    p2{
+     bottom: 180px;
+     font-size: 22px;
+     color:white;
+     left: 50px;
+     margin-bottom: 0px;
+     }
+     
+    p11{color : white;
+       font-size: 32px;
+       margin-bottom: 0px;
+        }
+     
+
+    p22{color: white;
+     bottom: 130px;
+     font-size: 20px;
+     color:white;
+     left: 60px;
+     margin-bottom: 0px;}
+     
+   .visa{position: relative;
+   left: 399px;
+   bottom: 70px;}
+
+   p{margin-bottom: 0px;
+     bottom: 80px;
+     font-size: 12px;
+     color: white;}
+    
+
+div.tinkoff { position: relativ;
+    background: black; /* Цвет фона */
+   
+    padding: 30px; /* Поля вокруг текста */
+    border-radius: 10px; /* Уголки */
+    width: 300px;
+    margin-left: 20px; 
+    margin-right: 20px;
+    border: 1px solid black;}
+
+    p1{font-size: 20px;
+    color:white;
+    ;
+    bottom: 70px;}
+    p2{
+     bottom: 180px;
+     font-size: 22px;
+     color:white;
+     left: 50px;
+     margin-bottom: 0px;
+     }
+     
+    p11{color : white;
+       font-size: 32px;
+       margin-bottom: 0px;
+    }
+     
+
+    p22{color: white;
+     bottom: 130px;
+     font-size: 20px;
+     color:white;
+     left: 60px;
+     margin-bottom: 0px;}
+     
+   .visa{position: relative;
+   left: 190px;
+   bottom: -1px;}
+
+   p{margin-bottom: 0px;
+     bottom: 80px;
+     font-size: 12px;
+     color: white;}
+
+     div.sberbank { position: relativ;
+    background: green; /* Цвет фона */
+   
+    padding: 30px; /* Поля вокруг текста */
+    border-radius: 10px; /* Уголки */
+    width: 300px;
+    margin-left: 20px; 
+    margin-right: 20px;
+    border: 1px solid green;}
+
+    p1{font-size: 20px;
+    color:white;
+    ;
+    bottom: 70px;}
+    p2{
+     bottom: 180px;
+     font-size: 22px;
+     color:white;
+     left: 50px;
+     margin-bottom: 0px;
+     }
+     
+    p11{color : white;
+       font-size: 32px;
+       margin-bottom: 0px;
+    }
+     
+
+    p22{color: white;
+     bottom: 130px;
+     font-size: 20px;
+     color:white;
+     left: 60px;
+     margin-bottom: 0px;}
+     
+   .visa{position: relative;
+   left: 190px;
+   bottom: -1px;}
+
+   p{margin-bottom: 0px;
+     bottom: 80px;
+     font-size: 12px;
+     color: white;}
+
+      div.vtb { position: relativ;
+    background:rgb(16, 16, 185);
+    padding: 30px; /* Поля вокруг текста */
+    border-radius: 10px; /* Уголки */
+    width: 300px;
+    margin-left: 20px; 
+    margin-right: 20px;
+    border: 1px solid blue;}
+
+    p1{font-size: 20px;
+    color:white;
+    ;
+    bottom: 70px;}
+    p2{
+     bottom: 180px;
+     font-size: 22px;
+     color:white;
+     left: 50px;
+     margin-bottom: 0px;
+     }
+     
+    p11{color : white;
+       font-size: 32px;
+       margin-bottom: 0px;
+    }
+     
+
+    p22{color: white;
+     bottom: 130px;
+     font-size: 20px;
+     color:white;
+     left: 60px;
+     margin-bottom: 0px;}
+     
+    .visa{position: relative;
+    left: 190px;
+    bottom: -1px;}
+
+    p{margin-bottom: 0px;
+     bottom: 80px;
+     font-size: 12px;
+     color: white;}
+     
+
+    
